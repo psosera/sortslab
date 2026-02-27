@@ -1,12 +1,10 @@
-package edu.grinnell.csc207.sortingvisualizer;
+package edu.grinnell.csc207.sorts;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.function.Consumer;
 
 import org.junit.jupiter.api.Test;
-
-import edu.grinnell.csc207.sortslab.Sorts;
 
 public class SortsTest {
     /**

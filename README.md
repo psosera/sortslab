@@ -1,4 +1,4 @@
-# Sorts Lab
+# Sorts
 
 * Authors: _(TODO: list your names here)_
 

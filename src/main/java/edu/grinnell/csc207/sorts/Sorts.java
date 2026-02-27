@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.sortslab;
+package edu.grinnell.csc207.sorts;
 
 /**
  * A collection of sorting algorithms over generic arrays.
